@@ -737,7 +737,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "novel_search"
+name = "novel-search"
 version = "1.0.0"
 dependencies = [
  "clap",
