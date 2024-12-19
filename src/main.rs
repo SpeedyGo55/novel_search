@@ -1,5 +1,4 @@
 // A CLI-tool to browse books from the Open Library API
-// Features: search by name, search by author, search by ISBN, search by text, random book, top book by genre
 
 use reqwest;
 use clap::{Parser, Subcommand};

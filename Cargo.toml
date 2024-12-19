@@ -2,6 +2,14 @@
 name = "novel_search"
 version = "1.0.0"
 edition = "2021"
+license = "MIT"
+description = "A CLI-tool to browse books from the Open Library API"
+homepage = "https://github.com/SpeedyGo55/novel_search"
+repository = "https://github.com/SpeedyGo55/novel_search"
+authors = ["SpeedyGo55 <speedygo55@outlook.com>"]
+readme = "README.md"
+keywords = ["novel", "search", "cli", "open-library", "binary"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 clap = { version = "4.5.23", features = ["derive"] }
